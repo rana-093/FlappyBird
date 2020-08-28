@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1186055836 source:d:\flappy2\imain.cpp
+	"iGraphics.h"
+
+1462801062 d:\flappy2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+
+1464413840 source:i:\flappy2\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+
+1464413000 i:\flappy2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1185992375 source:c:\documents and settings\aaa\desktop\flappy2\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+
+1464421618 c:\documents and settings\aaa\desktop\flappy2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+
+1465446306 source:c:\users\masud rana\desktop\f\flappy2\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+
+1465238579 c:\users\masud rana\desktop\f\flappy2\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465417915 c:\users\masud rana\desktop\f\flappy2\texturelist.h
+	"texture.h"
+
+1464496204 c:\users\masud rana\desktop\f\flappy2\texture.h
+
+1465446308 source:h:\ \flappy2\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+
+1465238580 h:\ \flappy2\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465417916 h:\ \flappy2\texturelist.h
+	"texture.h"
+
+1464496204 h:\ \flappy2\texture.h
+
+1465457316 source:c:\users\masud rana\desktop\flappy2\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+
+1465238580 c:\users\masud rana\desktop\flappy2\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465417916 c:\users\masud rana\desktop\flappy2\texturelist.h
+	"texture.h"
+
+1464496204 c:\users\masud rana\desktop\flappy2\texture.h
+
